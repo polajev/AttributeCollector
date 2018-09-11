@@ -7,6 +7,7 @@ This is a Python script. It can be run via the terminal.
 
 Usage: 
 >python acollector.py "[file with data entry names]" "[data file]" "[the column number of the desired attribute data]" "[separator in data file]"
+
 Example: 
 >python acollector.py "example/townlist.txt" "example/weather.csv" "6" ","
 
